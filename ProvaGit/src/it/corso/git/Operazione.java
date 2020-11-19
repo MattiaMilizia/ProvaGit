@@ -11,6 +11,7 @@ public class Operazione {
 		System.out.println("Premi 5 per uscire.");
 	}
 	public static void main(String[] args) {
+		System.out.println("Sono una nuova modifica");
 	
 	Scanner input = new Scanner(System.in);
 	Menu();
